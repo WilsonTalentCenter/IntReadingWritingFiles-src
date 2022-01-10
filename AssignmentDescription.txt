@@ -1,0 +1,18 @@
+1.) For this assignment you are going to modify your advArraysList2 assignment (the login application)
+I want you to change it so it saves/modifies all of the loging information in a file called "Accounts.txt"
+(I would suggest creating a new project and copying your old code over)
+
+2.) I want you to only use one file to store all of the information but you have freedom to choose
+how you store all of the information in the file. 
+
+For Example one of an infinate possible ways to store the information in a file is with the following format:
+Then you can use something like the .startsWith() and .substring() methods for Strings to parse the information
+
+startAccount
+username:
+password:
+endAccount
+startAccount
+username:
+password:
+endAccount
